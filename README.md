@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is  my first repository
 <br>
-author-Gaurav Chavan
+author-Gaurav Chavan (apna college)
